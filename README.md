@@ -6,7 +6,7 @@ It showcases the work using various ML models performed on classification and re
 
 Below is the contents of each folder.
 
-Week1-Creating Jupyter Notebook with self introduction and Data preparation for fitting models
+Week1-Creating Jupyter Notebook with self introduction and Data preparation for fitting models  
 Week2-Regression models
 Week3-Fitted Support Vector Machines on data evaluated the performance compared to other models
 Week4-Decision Tress
