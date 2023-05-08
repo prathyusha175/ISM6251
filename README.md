@@ -4,7 +4,7 @@ This repo has all my assignments I did as part of my course Data Science Program
 
 It showcases the work using various ML models performed on classification and regression problems.
 
-Below is the contents of each folder.
+Below are the contents of each folder.
 
 Week1-Creating Jupyter Notebook with self introduction and Data preparation for fitting models  
 Week2-Regression models  
